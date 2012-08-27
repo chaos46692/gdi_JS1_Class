@@ -1,0 +1,1 @@
+{"ts":1346081764669,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"\n/*  \n    This is the style sheet for your photo gallery\n\n\n*/\n\ndiv#gallery {\n    max-width:              1000px;\n    \n\n}"]],"start1":0,"start2":0,"length1":0,"length2":120}]],"length":120}
